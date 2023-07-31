@@ -1,0 +1,375 @@
+Location,Time of a day,Object,Posture,Duration,Activity,Result
+Bedroom,Night,Hall-Bedroom door,Sitting,33086,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,45,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Standing,245,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Sitting,614,take shower,Usual
+Front,Morning,Frontdoor,Standing,23792,leave house,Usual
+Kitchen,Afternoon,Fridge,Lying,71,store groceries,Usual
+Bathroom,Afternoon,Hall-Bathroom door,Lying,63,use toilet,Usual
+Kitchen,Afternoon,Fridge,Sitting,63,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,104,use toilet,Usual
+Kitchen,Evening,Groceries Cupboard,Sitting,2552,prepare Dinner,Usual
+Kitchen,Evening,Fridge,Sitting,23,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,67,use toilet,Usual
+Kitchen,Evening,Plates cupboard,Standing,216,get snack,Usual
+Bedroom,Evening,Hall-Bedroom door,Sitting,50745,go to bed,Usual
+Bathroom,Evening,Hall-Bathroom door,Lying,44,use toilet,Usual
+Toilet,Night,Hall-Toilet door,Sitting,16,use toilet,Usual
+Bathroom,Night,Hall-Bathroom door,Standing,61,use toilet,Usual
+Bedroom,Morning,Hall-Bedroom door,Standing,39,use toilet,Usual
+Bedroom,Morning,Hall-Bedroom door,Lying,200,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Lying,147,prepare Breakfast,Unusual
+Toilet,Morning,Hall-Toilet door,Lying,649,take shower,Unusual
+Front,Morning,Frontdoor,Sitting,37701,leave house,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,88,use toilet,Usual
+Kitchen,Evening,Fridge,Standing,49,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Standing,171,use toilet,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,54045,go to bed,Usual
+Bathroom,Night,Hall-Bathroom door,Sitting,75,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Sitting,96,prepare Breakfast,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,132,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Standing,635,take shower,Usual
+Front,Morning,Frontdoor,Lying,37478,leave house,Unusual
+Kitchen,Evening,Groceries Cupboard,Sitting,1153,prepare Dinner,Usual
+Kitchen,Evening,Fridge,Standing,19,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Standing,137,use toilet,Usual
+Bathroom,Night,Hall-Bathroom door,Sitting,173,use toilet,Usual
+Toilet,Night,Hall-Toilet door,Lying,34338,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,58,use toilet,Usual
+Bedroom,Morning,Hall-Bedroom door,Standing,38,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Standing,108,prepare Breakfast,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,145,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Lying,682,take shower,Unusual
+Front,Morning,Frontdoor,Standing,27415,leave house,Usual
+Kitchen,Evening,Fridge,Standing,148,get snack,Usual
+Bathroom,Evening,Hall-Bathroom door,Lying,51,use toilet,Usual
+Front,Evening,Frontdoor,Lying,9723,leave house,Unusual
+Bathroom,Evening,Hall-Bathroom door,Standing,102,use toilet,Usual
+Kitchen,Evening,Groceries Cupboard,Lying,26,get snack,Unusual
+Toilet,Evening,Hall-Toilet door,Sitting,51,use toilet,Usual
+Toilet,Evening,Hall-Toilet door,Lying,47033,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,70,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Lying,242,prepare Breakfast,Unusual
+Bathroom,Morning,Hall-Bathroom door,Standing,35,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Sitting,589,take shower,Usual
+Front,Morning,Frontdoor,Lying,26991,leave house,Unusual
+Front,Evening,Frontdoor,Sitting,2446,leave house,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,61,use toilet,Usual
+Kitchen,Evening,Fridge,Lying,4506,prepare Dinner,Unusual
+Front,Evening,Frontdoor,Standing,8710,leave house,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,36,use toilet,Usual
+Kitchen,Evening,Freezer,Lying,241,get snack,Unusual
+Bathroom,Evening,Hall-Bathroom door,Standing,315,use toilet,Usual
+Bedroom,Evening,Hall-Bedroom door,Standing,47632,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,108,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Sitting,105,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Standing,918,take shower,Usual
+Front,Morning,Frontdoor,Standing,2209,leave house,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,55,use toilet,Usual
+Bedroom,Morning,Hall-Bedroom door,Sitting,32669,leave house,Usual
+Bathroom,Evening,Hall-Bathroom door,Lying,178,use toilet,Usual
+Front,Evening,Frontdoor,Standing,18800,leave house,Usual
+Kitchen,Evening,Fridge,Standing,36,get drink,Usual
+Bathroom,Night,Hall-Bathroom door,Standing,206,use toilet,Usual
+Bathroom,Night,Hall-Bathroom door,Standing,66,use toilet,Usual
+Bedroom,Night,Hall-Bedroom door,Standing,32805,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,55,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,48,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Lying,96,prepare Breakfast,Unusual
+Toilet,Morning,Hall-Toilet door,Sitting,490,take shower,Usual
+Bedroom,Morning,Hall-Bedroom door,Standing,34630,leave house,Usual
+Kitchen,Evening,Freezer,Lying,2131,prepare Dinner,Unusual
+Bathroom,Evening,Hall-Bathroom door,Sitting,81,use toilet,Usual
+Bathroom,Evening,Hall-Bathroom door,Lying,79,use toilet,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,32,use toilet,Usual
+Toilet,Evening,ToiletFlush,Lying,53657,go to bed,Usual
+Bathroom,Night,Hall-Bathroom door,Sitting,54,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Lying,43,use toilet,Usual
+Kitchen,Morning,Fridge,Sitting,351,prepare Breakfast,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,264,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Standing,470,take shower,Usual
+Front,Morning,Frontdoor,Sitting,25440,leave house,Usual
+Kitchen,Afternoon,Fridge,Lying,28,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Lying,74,use toilet,Usual
+Kitchen,Evening,Groceries Cupboard,Standing,2669,prepare Dinner,Usual
+Kitchen,Evening,Fridge,Lying,23,get drink,Usual
+Kitchen,Evening,Groceries Cupboard,Sitting,164,get snack,Usual
+Kitchen,Evening,Cups cupboard,Lying,23,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,178,use toilet,Usual
+Bathroom,Evening,Hall-Bathroom door,Standing,48,use toilet,Usual
+Bedroom,Evening,Hall-Bedroom door,Sitting,52774,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,48,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,68,use toilet,Usual
+Kitchen,Morning,Fridge,Standing,41,get drink,Usual
+Kitchen,Morning,Plates cupboard,Sitting,94,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Lying,543,take shower,Unusual
+Front,Morning,Frontdoor,Standing,30053,leave house,Usual
+Kitchen,Night,Cups cupboard,Sitting,50,get drink,Usual
+Toilet,Night,Hall-Toilet door,Sitting,103,use toilet,Usual
+Bedroom,Night,Hall-Bedroom door,Standing,17666,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Lying,63,use toilet,Usual
+Kitchen,Morning,Cups cupboard,Standing,59,get drink,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,181,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,87,use toilet,Usual
+Bedroom,Morning,Hall-Bedroom door,Sitting,1428,go to bed,Usual
+Kitchen,Morning,Dishwasher,Lying,193,prepare Breakfast,Unusual
+Bathroom,Morning,Hall-Bathroom door,Sitting,186,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Standing,528,take shower,Usual
+Front,Morning,Frontdoor,Lying,18992,leave house,Unusual
+Bedroom,Morning,Hall-Bedroom door,Standing,7993,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Lying,58,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,130,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Standing,86,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Sitting,658,take shower,Usual
+Front,Morning,Frontdoor,Lying,32098,leave house,Unusual
+Bathroom,Evening,Hall-Bathroom door,Standing,55,use toilet,Usual
+Kitchen,Evening,Fridge,Lying,2226,prepare Dinner,Unusual
+Kitchen,Evening,Fridge,Lying,31,get drink,Usual
+Toilet,Evening,ToiletFlush,Lying,122,use toilet,Usual
+Kitchen,Evening,Freezer,Sitting,176,get drink,Usual
+Toilet,Evening,ToiletFlush,Standing,43,use toilet,Usual
+Bedroom,Evening,Hall-Bedroom door,Standing,48112,go to bed,Usual
+Bedroom,Morning,Hall-Bedroom door,Sitting,86,use toilet,Usual
+Toilet,Morning,ToiletFlush,Standing,88,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Standing,165,use toilet,Usual
+Toilet,Morning,ToiletFlush,Standing,627,take shower,Usual
+Front,Morning,Frontdoor,Lying,30261,leave house,Unusual
+Kitchen,Afternoon,Freezer,Standing,885,prepare Dinner,Usual
+Kitchen,Evening,Cups cupboard,Standing,27,get drink,Usual
+Toilet,Evening,Hall-Toilet door,Lying,49,use toilet,Usual
+Front,Evening,Frontdoor,Lying,7647,leave house,Unusual
+Kitchen,Evening,Fridge,Lying,305,get drink,Usual
+Kitchen,Evening,Fridge,Lying,25,get drink,Usual
+Toilet,Evening,ToiletFlush,Sitting,67,use toilet,Usual
+Bedroom,Evening,Hall-Bedroom door,Sitting,47526,go to bed,Usual
+Toilet,Night,ToiletFlush,Sitting,56,use toilet,Usual
+Toilet,Morning,ToiletFlush,Standing,85,use toilet,Usual
+Kitchen,Morning,Fridge,Sitting,222,prepare Breakfast,Usual
+Kitchen,Morning,Cups cupboard,Lying,27,get drink,Usual
+Toilet,Morning,ToiletFlush,Lying,145,use toilet,Usual
+Front,Morning,Frontdoor,Sitting,4318,leave house,Usual
+Toilet,Afternoon,Hall-Toilet door,Standing,348,take shower,Usual
+Front,Night,Frontdoor,Lying,43222,leave house,Unusual
+Kitchen,Night,Freezer,Lying,115,get snack,Unusual
+Toilet,Night,Hall-Toilet door,Sitting,171,use toilet,Usual
+Toilet,Night,Hall-Toilet door,Standing,25094,go to bed,Usual
+Toilet,Morning,ToiletFlush,Sitting,69,use toilet,Usual
+Toilet,Morning,ToiletFlush,Standing,44,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Sitting,89,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Standing,420,take shower,Usual
+Front,Morning,Frontdoor,Lying,28392,leave house,Unusual
+Bathroom,Afternoon,Hall-Bathroom door,Lying,61,use toilet,Usual
+Kitchen,Evening,Groceries Cupboard,Sitting,48,get snack,Usual
+,,,,,,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,120,use toilet,Usual
+Front,Evening,Frontdoor,Lying,71772,leave house,Unusual
+Bathroom,Night,Hall-Bathroom door,Lying,58,use toilet,Usual
+Bedroom,Night,Hall-Bedroom door,Lying,29628,go to bed,Usual
+Bathroom,Night,Hall-Bathroom door,Sitting,864,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Lying,82,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Sitting,195,prepare Breakfast,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,219,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Sitting,658,take shower,Usual
+Front,Morning,Frontdoor,Lying,23085,leave house,Unusual
+Kitchen,Afternoon,Fridge,Lying,93,get snack,Unusual
+Bathroom,Afternoon,Hall-Bathroom door,Lying,60,use toilet,Usual
+Front,Afternoon,Frontdoor,Standing,17997,leave house,Usual
+Kitchen,Evening,Plates cupboard,Standing,138,get snack,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,55,use toilet,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,61,use toilet,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,50773,go to bed,Usual
+Bedroom,Night,Hall-Bedroom door,Lying,63,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,49,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,141,use toilet,Usual
+Kitchen,Morning,Fridge,Sitting,137,prepare Breakfast,Usual
+Bathroom,Morning,Hall-Bathroom door,Lying,87,use toilet,Usual
+Bathroom,Afternoon,Hall-Bathroom door,Lying,59,use toilet,Usual
+Kitchen,Afternoon,Plates cupboard,Sitting,98,get snack,Usual
+Bathroom,Afternoon,Hall-Bathroom door,Standing,91,use toilet,Usual
+Toilet,Afternoon,Hall-Toilet door,Sitting,696,take shower,Usual
+Kitchen,Afternoon,Cups cupboard,Lying,13,get snack,Unusual
+Kitchen,Evening,Groceries Cupboard,Sitting,1474,prepare Dinner,Usual
+Kitchen,Evening,Cups cupboard,Standing,35,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,59,use toilet,Usual
+Front,Evening,Frontdoor,Standing,69320,leave house,Usual
+Kitchen,Night,Groceries Cupboard,Lying,294,get snack,Unusual
+Bathroom,Night,Hall-Bathroom door,Standing,36,use toilet,Usual
+Bedroom,Night,Hall-Bedroom door,Lying,27285,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Lying,70,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,192,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Sitting,103,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Lying,476,take shower,Unusual
+Front,Morning,Frontdoor,Lying,36581,leave house,Unusual
+Bathroom,Evening,Hall-Bathroom door,Sitting,60,use toilet,Usual
+Bedroom,Evening,Hall-Bedroom door,Sitting,49953,go to bed,Usual
+Bathroom,Evening,Hall-Bathroom door,Standing,47,use toilet,Usual
+Bathroom,Night,Hall-Bathroom door,Lying,46,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Standing,74,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Lying,703,take shower,Unusual
+Bathroom,Morning,Hall-Bathroom door,Lying,302,use toilet,Usual
+Front,Morning,Frontdoor,Sitting,35733,leave house,Usual
+Bathroom,Evening,Hall-Bathroom door,Standing,68,use toilet,Usual
+Kitchen,Evening,Pans Cupboard,Standing,1906,prepare Dinner,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,125,use toilet,Usual
+Kitchen,Evening,Cups cupboard,Lying,9,get drink,Usual
+Kitchen,Evening,Freezer,Standing,16,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,54,use toilet,Usual
+Bathroom,Night,Hall-Bathroom door,Sitting,56,use toilet,Usual
+Bedroom,Night,Hall-Bedroom door,Lying,25003,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,45,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,253,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Sitting,189,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Lying,778,take shower,Unusual
+Front,Morning,Frontdoor,Standing,31567,leave house,Usual
+Toilet,Evening,ToiletFlush,Sitting,438,use toilet,Usual
+Toilet,Evening,ToiletFlush,Sitting,126,use toilet,Usual
+Front,Evening,Frontdoor,Standing,18896,leave house,Usual
+Bathroom,Night,Hall-Bathroom door,Lying,95,use toilet,Usual
+Bedroom,Night,Hall-Bedroom door,Sitting,28753,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Lying,58,use toilet,Usual
+Kitchen,Morning,Fridge,Lying,368,prepare Breakfast,Unusual
+Bathroom,Morning,Hall-Bathroom door,Standing,41,use toilet,Usual
+Toilet,Morning,ToiletFlush,Standing,658,take shower,Usual
+Front,Morning,Frontdoor,Lying,25610,leave house,Unusual
+Toilet,Afternoon,Hall-Toilet door,Lying,156,take shower,Unusual
+Front,Afternoon,Frontdoor,Lying,10407,leave house,Unusual
+Bathroom,Evening,Hall-Bathroom door,Sitting,164,use toilet,Usual
+Toilet,Evening,Hall-Toilet door,Lying,157,use toilet,Usual
+Bedroom,Evening,Hall-Bedroom door,Sitting,48207,go to bed,Usual
+Bathroom,Night,Hall-Bathroom door,Lying,54,use toilet,Usual
+Toilet,Morning,ToiletFlush,Sitting,45,use toilet,Usual
+Toilet,Morning,ToiletFlush,Standing,84,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Standing,199,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Sitting,476,take shower,Usual
+Front,Morning,Frontdoor,Standing,46374,leave house,Usual
+Bedroom,Night,Hall-Bedroom door,Sitting,33086,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,45,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Standing,245,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Sitting,614,take shower,Usual
+Front,Morning,Frontdoor,Standing,23792,leave house,Usual
+Kitchen,Afternoon,Fridge,Lying,71,store groceries,Usual
+Bathroom,Afternoon,Hall-Bathroom door,Lying,63,use toilet,Usual
+Kitchen,Afternoon,Fridge,Sitting,63,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,104,use toilet,Usual
+Kitchen,Evening,Groceries Cupboard,Sitting,2552,prepare Dinner,Usual
+Kitchen,Evening,Fridge,Sitting,23,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,67,use toilet,Usual
+Kitchen,Evening,Plates cupboard,Standing,216,get snack,Usual
+Bedroom,Evening,Hall-Bedroom door,Sitting,50745,go to bed,Usual
+Bathroom,Evening,Hall-Bathroom door,Lying,44,use toilet,Usual
+Toilet,Night,Hall-Toilet door,Sitting,16,use toilet,Usual
+Bathroom,Night,Hall-Bathroom door,Standing,61,use toilet,Usual
+Bedroom,Morning,Hall-Bedroom door,Standing,39,use toilet,Usual
+Bedroom,Morning,Hall-Bedroom door,Lying,200,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Lying,147,prepare Breakfast,Unusual
+Toilet,Morning,Hall-Toilet door,Lying,649,take shower,Unusual
+Front,Morning,Frontdoor,Sitting,37701,leave house,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,88,use toilet,Usual
+Kitchen,Evening,Fridge,Standing,49,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Standing,171,use toilet,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,54045,go to bed,Usual
+Bathroom,Night,Hall-Bathroom door,Sitting,75,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Sitting,96,prepare Breakfast,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,132,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Standing,635,take shower,Usual
+Front,Morning,Frontdoor,Lying,37478,leave house,Unusual
+Kitchen,Evening,Groceries Cupboard,Sitting,1153,prepare Dinner,Usual
+Kitchen,Evening,Fridge,Standing,19,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Standing,137,use toilet,Usual
+Bathroom,Night,Hall-Bathroom door,Sitting,173,use toilet,Usual
+Toilet,Night,Hall-Toilet door,Lying,34338,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,58,use toilet,Usual
+Bedroom,Morning,Hall-Bedroom door,Standing,38,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Standing,108,prepare Breakfast,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,145,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Lying,682,take shower,Unusual
+Front,Morning,Frontdoor,Standing,27415,leave house,Usual
+Kitchen,Evening,Fridge,Standing,148,get snack,Usual
+Bathroom,Evening,Hall-Bathroom door,Lying,51,use toilet,Usual
+Front,Evening,Frontdoor,Lying,9723,leave house,Unusual
+Bathroom,Evening,Hall-Bathroom door,Standing,102,use toilet,Usual
+Kitchen,Evening,Groceries Cupboard,Lying,26,get snack,Unusual
+Toilet,Evening,Hall-Toilet door,Sitting,51,use toilet,Usual
+Toilet,Evening,Hall-Toilet door,Lying,47033,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,70,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Lying,242,prepare Breakfast,Unusual
+Bathroom,Morning,Hall-Bathroom door,Standing,35,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Sitting,589,take shower,Usual
+Front,Morning,Frontdoor,Lying,26991,leave house,Unusual
+Front,Evening,Frontdoor,Sitting,2446,leave house,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,61,use toilet,Usual
+Kitchen,Evening,Fridge,Lying,4506,prepare Dinner,Unusual
+Front,Evening,Frontdoor,Standing,8710,leave house,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,36,use toilet,Usual
+Kitchen,Evening,Freezer,Lying,241,get snack,Unusual
+Bathroom,Evening,Hall-Bathroom door,Standing,315,use toilet,Usual
+Bedroom,Evening,Hall-Bedroom door,Standing,47632,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,108,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Sitting,105,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Standing,918,take shower,Usual
+Front,Morning,Frontdoor,Standing,2209,leave house,Usual
+Bathroom,Morning,Hall-Bathroom door,Sitting,55,use toilet,Usual
+Bedroom,Morning,Hall-Bedroom door,Sitting,32669,leave house,Usual
+Bathroom,Evening,Hall-Bathroom door,Lying,178,use toilet,Usual
+Front,Evening,Frontdoor,Standing,18800,leave house,Usual
+Kitchen,Evening,Fridge,Standing,36,get drink,Usual
+Bathroom,Night,Hall-Bathroom door,Standing,206,use toilet,Usual
+Bathroom,Night,Hall-Bathroom door,Standing,66,use toilet,Usual
+Bedroom,Night,Hall-Bedroom door,Standing,32805,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,55,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,48,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Lying,96,prepare Breakfast,Unusual
+Toilet,Morning,Hall-Toilet door,Sitting,490,take shower,Usual
+Bedroom,Morning,Hall-Bedroom door,Standing,34630,leave house,Usual
+Kitchen,Evening,Freezer,Lying,2131,prepare Dinner,Unusual
+Bathroom,Evening,Hall-Bathroom door,Sitting,81,use toilet,Usual
+Bathroom,Evening,Hall-Bathroom door,Lying,79,use toilet,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,32,use toilet,Usual
+Toilet,Evening,ToiletFlush,Lying,53657,go to bed,Usual
+Bathroom,Night,Hall-Bathroom door,Sitting,54,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Lying,43,use toilet,Usual
+Kitchen,Morning,Fridge,Sitting,351,prepare Breakfast,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,264,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Standing,470,take shower,Usual
+Front,Morning,Frontdoor,Sitting,25440,leave house,Usual
+Kitchen,Afternoon,Fridge,Lying,28,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Lying,74,use toilet,Usual
+Kitchen,Evening,Groceries Cupboard,Standing,2669,prepare Dinner,Usual
+Kitchen,Evening,Fridge,Lying,23,get drink,Usual
+Kitchen,Evening,Groceries Cupboard,Sitting,164,get snack,Usual
+Kitchen,Evening,Cups cupboard,Lying,23,get drink,Usual
+Bathroom,Evening,Hall-Bathroom door,Sitting,178,use toilet,Usual
+Bathroom,Evening,Hall-Bathroom door,Standing,48,use toilet,Usual
+Bedroom,Evening,Hall-Bedroom door,Sitting,52774,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,48,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,68,use toilet,Usual
+Kitchen,Morning,Fridge,Standing,41,get drink,Usual
+Kitchen,Morning,Plates cupboard,Sitting,94,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Lying,543,take shower,Unusual
+Front,Morning,Frontdoor,Standing,30053,leave house,Usual
+Kitchen,Night,Cups cupboard,Sitting,50,get drink,Usual
+Toilet,Night,Hall-Toilet door,Sitting,103,use toilet,Usual
+Bedroom,Night,Hall-Bedroom door,Standing,17666,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Lying,63,use toilet,Usual
+Kitchen,Morning,Cups cupboard,Standing,59,get drink,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,181,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,87,use toilet,Usual
+Bedroom,Morning,Hall-Bedroom door,Sitting,1428,go to bed,Usual
+Kitchen,Morning,Dishwasher,Lying,193,prepare Breakfast,Unusual
+Bathroom,Morning,Hall-Bathroom door,Sitting,186,use toilet,Usual
+Toilet,Morning,Hall-Toilet door,Standing,528,take shower,Usual
+Front,Morning,Frontdoor,Lying,18992,leave house,Unusual
+Bedroom,Morning,Hall-Bedroom door,Standing,7993,go to bed,Usual
+Bathroom,Morning,Hall-Bathroom door,Lying,58,use toilet,Usual
+Bathroom,Morning,Hall-Bathroom door,Standing,130,use toilet,Usual
+Kitchen,Morning,Plates cupboard,Standing,86,prepare Breakfast,Usual
+Toilet,Morning,Hall-Toilet door,Sitting,658,take shower,Usual
+Front,Morning,Frontdoor,Lying,32098,leave house,Unusual
+Bathroom,Evening,Hall-Bathroom door,Standing,55,use toilet,Usual
+Kitchen,Evening,Fridge,Lying,2226,prepare Dinner,Unusual
+Kitchen,Evening,Fridge,Lying,31,get drink,Usual
+Toilet,Evening,ToiletFlush,Lying,122,use toilet,Usual
+Kitchen,Evening,Freezer,Sitting,176,get drink,Usual
+Toilet,Evening,ToiletFlush,Standing,43,use toilet,Usual
+Bedroom,Evening,Hall-Bedroom door,Standing,48112,go to bed,Usual
+Bedroom,Morning,Hall-Bedroom door,Standing,1428,go to bed,Usual
